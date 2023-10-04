@@ -1,6 +1,4 @@
-
-<body>
-    <h1>Welcome to WoixCrypto</h1>
+   <h1>Welcome to WoixCrypto</h1>
     <h2>About</h2>
     <p>WoixCrypto is a small trading website built using React.js. It provides a platform for cryptocurrency trading and investment.</p>
     <h2>Features</h2>
@@ -29,5 +27,3 @@
 
     <h2>Contact</h2>
     <p>If you have any questions or need assistance, you can contact us at <a href="mailto:contact@woixcrypto.com">contact@woixcrypto.com</a>.</p>
-</body>
-</html>
