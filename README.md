@@ -1,33 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WoixCrypto - Trading Website</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        h1 {
-            color: #333;
-        }
-        h2 {
-            color: #555;
-        }
-        p {
-            color: #777;
-        }
-        a {
-            color: #007BFF;
-        }
-    </style>
-</head>
+
 <body>
     <h1>Welcome to WoixCrypto</h1>
     <h2>About</h2>
     <p>WoixCrypto is a small trading website built using React.js. It provides a platform for cryptocurrency trading and investment.</p>
-
     <h2>Features</h2>
     <ul>
         <li>Real-time cryptocurrency market data.</li>
